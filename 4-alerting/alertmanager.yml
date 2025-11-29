@@ -8,4 +8,4 @@ receivers:
         channel: "#devops-alerts"
         username: "PrometheusBot"
         icon_emoji: ":rotating_light:"
-        api_url: "${SLACK_WEBHOOK_URL}"
+        api_url: "https://dummy-webhook.com/slack"
